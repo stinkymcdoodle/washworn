@@ -1,0 +1,19 @@
+title: "Washed 'N Worn"
+author: David Giorgi
+email: busgiorgi@gmail.com
+description: >-
+  Home
+
+social:
+  instagram: _washednworn
+  linkedin: dmgiorgi
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+collections:
+  images:
+    output: true
